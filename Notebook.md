@@ -51,9 +51,15 @@ Tip: edit your data in excel (2016 is ok), then use [`Excel2LaTeX`](https://ctan
 \end{table}
 ```
 
++ latex字体大小，有小到大依次为：\tiny \scriptsize \footnotesize \small \normalsize \large \Large \LARGE \huge \Huge
++ 字符间隔调整，前两个的间隔较大，后面三个较小，最后一个是负间隔： \quad \qquad \, \: \; \!
+
 三线表：
 
 + 引入宏包：`\usepackage{booktabs}`
 + 顶部线：`\toprule`，又黑又粗
 + 中部线：`\midrule`，又白又细
 + 底部线：`\bottomrule`：和顶部差不多
+
+
+
