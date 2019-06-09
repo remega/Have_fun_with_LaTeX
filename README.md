@@ -1,4 +1,4 @@
-# Have_fun_with_LaTex
+# HAVE FUN WITH LATEX
 
 Notebook about LaTex.
 
