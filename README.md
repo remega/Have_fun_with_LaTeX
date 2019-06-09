@@ -1,6 +1,6 @@
 # HAVE FUN WITH LATEX
 
-Notebook about LaTex.
+Notebook about LaTeX.
 
 ## Commonly-used commands
 
