@@ -3,7 +3,7 @@
 Tip: edit your data in excel (2016 is ok), then use [`Excel2LaTeX`](https://ctan.org/pkg/excel2latex) to get LaTeX code.
 
 + 如果有行、列合并，需要`\usepackage{multirow}`。
-+ 调整`array`或`tabular`环境内的列间距：`\renewcommand\arraystretch{1.1}`。默认值是1，即不调整。
++ 调整`array`或`tabular`环境内的列间距：`\renewcommand\arraystretch{1.1}`。默认值是1，即不调整。经验上，列间距较大比较好看。
 
 ```
 \usepackage{multirow}
